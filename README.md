@@ -7,15 +7,4 @@
 
 ## Ferramentas
 
-- HTML
-- CSS
-- Bootstrap
-- Javascript
-- Jquery
-- Ajax
-- PDO
-- PHP
-- Fontawesome
-- MySql
-- Git
-- Github
+- WordPress
