@@ -8,3 +8,5 @@
 ## Ferramentas
 
 - WordPress
+- Git
+- GitHub
